@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- Updates -->
+
+- Installed Lux Bootswatch Theme, React-Bootstrap UI Library
+- Created Components folder adding Header, Footer, Product with HomeScreen and Latest Products section
+- added React Router for better navigation
+- added Product Screen and details
