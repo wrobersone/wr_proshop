@@ -71,7 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- Updates -->
 
+Frontend (React + Redux) | Backend (Django + DRF) | DB (Postgres)
+
 - Installed Lux Bootswatch Theme, React-Bootstrap UI Library
 - Created Components folder adding Header, Footer, Product with HomeScreen and Latest Products section
 - added React Router for better navigation
 - added Product Screen and details
+- installed Django + Django REST framework, django-cors-headers
