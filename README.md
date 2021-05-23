@@ -78,3 +78,7 @@ Frontend (React + Redux) | Backend (Django + DRF) | DB (Postgres)
 - added React Router for better navigation
 - added Product Screen and details
 - installed Django + Django REST framework, django-cors-headers
+- Database Setup & Admin panel
+- implement Data Model
+- add STATIC_URL, STATICFILES_DIRS (BASE_DIR) and MEDIA_ROOT
+- update state to handle product details and pass to screen, store and retrieve data from the Redux Store
