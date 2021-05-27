@@ -82,3 +82,5 @@ Frontend (React + Redux) | Backend (Django + DRF) | DB (Postgres)
 - implement Data Model
 - add STATIC_URL, STATICFILES_DIRS (BASE_DIR) and MEDIA_ROOT
 - update state to handle product details and pass to screen, store and retrieve data from the Redux Store
+- add cart and quantity select
+- add, update and remove cart item functionality
